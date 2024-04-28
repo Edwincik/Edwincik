@@ -2,6 +2,13 @@
  <img href="https://discord.com/users/1092877100781944862" src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer)](https://git.io/typing-svg" alt="Edwin Was Here" />
 </h1>
 
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
+<p align="center">
+ <a align="center" href="https://discord.com/users/1092877100781944862" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a align="center" href="https://www.github.com/Edwincik" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<br> </br>
+<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:Edwincik?theme=rule34">
