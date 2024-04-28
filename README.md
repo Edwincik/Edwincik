@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center"> </🌼Beş>  
+<h1 align="center"> </🌼Edwin>  
  <img href="https://discord.com/users/1092877100781944862" src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer)](https://git.io/typing-svg" alt="Edwin Was Here" />
 </h1>
 
