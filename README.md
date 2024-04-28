@@ -17,6 +17,14 @@
  <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
   </h2>
 
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
+<h2 align="center">
+<a href="https://supmass.gg/" target="_blank"><img align="center" alt="Edwin" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
+<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Edwin" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
+<a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Edwin" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
+ </h2>
+</br>  
+
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:Edwincik?theme=rule34">
