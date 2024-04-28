@@ -4,7 +4,7 @@
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Edwincik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
 
 <h2 align="center">
