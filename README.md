@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&random=false&width=435&height=100&lines=Fivem+Developer+Edwincik" alt="Typing SVG" /></h1>
 
 <h1 align="center"> </🌼Edwin>  
- <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=FFFFFF&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Edwin Was Here" />
+ <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Edwin Was Here" />
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
