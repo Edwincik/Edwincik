@@ -1,7 +1,6 @@
-<h1 align="center"> </🌼Beş>  
- <img href="https://discord.com/users/1092877100781944862" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=5D5D5D&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Edwin Was Here" />
+<h1 align="center"> </🌼Edwin>  
+ <img href="https://discord.com/users/928259219038302258" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=FFFFFF&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Edwin Was Here" />
 </h1>
-
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
  <a align="center" href="https://discord.com/users/1092877100781944862" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
