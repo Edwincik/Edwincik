@@ -10,7 +10,6 @@
 <h2 align="center">
  <a href="https://discord.com/users/1092877100781944862"><img  width="400px" src="https://lanyard.kyrie25.me/api/1092877100781944862?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Fivem+Development"></a>
 <br> </br>
-<a href="https://open.spotify.com/user/v84jxgzj58sr6kwmh92fgipkh" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=v84jxgzj58sr6kwmh92fgipkh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
  </h2>
 
 <!--
