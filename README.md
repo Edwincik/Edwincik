@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Beş>  
- <img href="https://discord.com/users/1092877100781944862" src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=F70000&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Beş Was Here" />
+ <img href="https://discord.com/users/1092877100781944862" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ewowqe&pause=1000&color=5D5D5D&center=true&random=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B;Destek+%C4%B0%C3%A7in+Support+Alabilirsiniz;Edwincik+githubuna+ho%C5%9Fgeldiniz;%F0%9F%91%8B+Fivem+Developer;%F0%9F%91%8B+Bot+Developer" alt="Beş Was Here" />
 </h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
@@ -35,11 +35,11 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/1092877100781944862"><img  width="400px" src="https://lanyard.kyrie25.me/api/1092877100781944862?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Fivem+Development"></a>
+<a href="https://discord.com/users/1092877100781944862"><img  width="400px" src="https://lanyard.kyrie25.me/api/1092877100781944862?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Fivem+Development"></a>
 <br> </br>
- </h2>
+</h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Edwincik&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincik&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edwincik&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincik&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
